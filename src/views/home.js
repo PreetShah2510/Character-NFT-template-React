@@ -105,7 +105,7 @@ const Home = (props) => {
         </div>
       </header>
       <section className="home-hero">
-        <h1 className="home-header">Create yourself for the metaverse</h1>
+        <h1 className="home-header">asdfasdfasdfasdfas</h1>
         <div className="home-heading">
           <p className="home-caption">
             A character custom collection is joining the NFT space on Opensea.
@@ -124,11 +124,11 @@ const Home = (props) => {
         />
         <div className="home-container3">
           <div className="home-description01">
+            <p className="home-paragraph">
+              We are a team of digital aute irure dolor in reprehenderit in
+              voluptate velit esse cillum dolore eu fugiat.
+            </p>
             <div className="home-content">
-              <p className="home-paragraph">
-                We are a team of digital aute irure dolor in reprehenderit in
-                voluptate velit esse cillum dolore eu fugiat.
-              </p>
               <p className="home-paragraph1">
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
                 qui officia deserunt mollit anim id est laborum. Nemo enim ipsam
